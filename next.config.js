@@ -5,9 +5,10 @@
 const nextConfig = {
     // basePath: isProd ? '/viraj19r': '',
     output: 'export',
-    // images: {
-    //     unoptimized: true,
-    // }
+    images: {
+        unoptimized: true,
+        domains: ["res.cloudinary.com"]
+    }
 }
 
 module.exports = nextConfig
