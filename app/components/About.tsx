@@ -26,7 +26,7 @@ const About = () => {
   return (
     <main
       id="about"
-      className="py-32 md:py-10 lg:py-10 px-3 md:px-8 lg:px-10 transition-all duration-500 ease-in-out bg-blue-100 hover:bg-blue-200"
+      className="py-32 md:py-10 lg:py-15 px-3 md:px-8 lg:px-10 transition-all duration-500 ease-in-out bg-blue-100 hover:bg-blue-200"
     >
       <div className="flex justify-center">
         <Tooltip text="GitHub">
@@ -35,7 +35,7 @@ const About = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaGithub className="text-4xl md:text-4xl hover:text-blue-500 mx-2" />
+            <FaGithub className="text-4xl text-black md:text-4xl hover:text-blue-500 mx-2" />
           </a>
         </Tooltip>
 
@@ -45,7 +45,7 @@ const About = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaHackerrank className="text-4xl md:text-4xl hover:text-blue-500 mx-2" />
+            <FaHackerrank className="text-4xl text-black md:text-4xl hover:text-blue-500 mx-2" />
           </a>
         </Tooltip>
         <Tooltip text="Kaggle">
@@ -54,7 +54,7 @@ const About = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaKaggle className="text-4xl md:text-4xl hover:text-blue-500 mx-2" />
+            <FaKaggle className="text-4xl text-black md:text-4xl hover:text-blue-500 mx-2" />
           </a>
         </Tooltip>
         <Tooltip text="LinkedIn">
@@ -63,14 +63,14 @@ const About = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaLinkedin className="text-4xl md:text-4xl hover:text-blue-500 mx-2" />
+            <FaLinkedin className="text-4xl text-black md:text-4xl hover:text-blue-500 mx-2" />
           </a>
         </Tooltip>
       </div>
 
       <div className="flex flex-col lg:flex-row items-center justify-between mt-10">
         <div className="space-y-6 md:space-y-8 lg:w-1/2">
-          <div className="text-center lg:text-left text-3xl md:text-5xl font-bold text-gray-800 dark:text-white hover:text-blue-500 transition duration-300 ease-in-out">
+          <div className="text-center lg:text-left text-3xl md:text-5xl font-bold text-gray-800 hover:text-blue-500 transition duration-300 ease-in-out">
             Viraj Sharma
           </div>
 
