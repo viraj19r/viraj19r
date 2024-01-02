@@ -26,7 +26,7 @@ const About = () => {
   return (
     <main
       id="about"
-      className="py-32 md:py-10 lg:py-15 px-3 md:px-8 lg:px-10 transition-all duration-500 ease-in-out bg-blue-100 hover:bg-blue-200"
+      className="py-32 lg:mt-4 md:py-10 lg:py-15 px-3 md:px-8 lg:px-10 transition-all duration-500 ease-in-out bg-blue-100 hover:bg-blue-200"
     >
       <div className="flex justify-center">
         <Tooltip text="GitHub">
@@ -74,8 +74,10 @@ const About = () => {
             Viraj Sharma
           </div>
 
-          <div className="text-center lg:text-left text-xl md:text-2xl font-medium text-white bg-blue-600 rounded-full py-2 px-4 mx-auto lg:mx-0 w-max hover:bg-blue-300 hover:text-blue-700 transform hover:scale-105 transition duration-300 ease-in-out">
-            {role}
+          <div className="h-10">
+            <div className="text-center lg:text-left text-xl md:text-2xl font-medium text-white bg-blue-600 rounded-full py-2 px-4 mx-auto lg:mx-0 w-max hover:bg-blue-300 hover:text-blue-700 transform hover:scale-105 transition duration-300 ease-in-out">
+              {role}
+            </div>
           </div>
 
           <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-xl transition duration-500 ease-in-out transform hover:scale-105 hover:bg-blue-50 dark:hover:bg-blue-900 px-6 py-4 lg:mx-0 mx-auto">
@@ -100,7 +102,6 @@ const About = () => {
           height={400}
           style={{ aspectRatio: "300 / 300" }}
           objectFit="cover"
-          unoptimized
         />
       </div>
       <div className="flex justify-center mt-20">

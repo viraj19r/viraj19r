@@ -129,7 +129,7 @@ const Skills: React.FC = () => {
     <section id="skills" className="py-20 md:py-32 lg:py-32 relative overflow-hidden">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/image.png" // Replace with your image path
+          src="/image.png"
           alt="Background"
           layout="fill"
           objectFit="cover"
