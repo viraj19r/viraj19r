@@ -93,7 +93,7 @@ const About = () => {
         </div>
 
         <Image
-          src="/photo_viraj.png"
+          src="/viraj.PNG"
           alt="Viraj Sharma Picture"
           className="rounded-full mt-8 lg:mt-0 object-cover border-4 border-blue-400 shadow-lg transition-all duration-500 ease-in-out hover:border-blue-600 hover:shadow-xl lg:ml-10"
           width={400}
