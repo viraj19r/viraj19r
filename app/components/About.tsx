@@ -94,7 +94,7 @@ const About = () => {
 
         <Image
           src="https://github.com/viraj19r/viraj19r/blob/main/public/photo_viraj.png"
-          alt="Your photo"
+          alt="Viraj Sharma Picture"
           className="rounded-full mt-8 lg:mt-0 object-cover border-4 border-blue-400 shadow-lg transition-all duration-500 ease-in-out hover:border-blue-600 hover:shadow-xl lg:ml-10"
           width={400}
           height={400}
