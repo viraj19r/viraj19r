@@ -76,7 +76,7 @@ const SkillCard: React.FC<SkillCardProps> = ({ title, skills }) => (
               className: 'text-4xl text-blue-600',
             })
           )}
-          <span className="mt-2 text-sm font-medium text-gray-700">{skill.name}</span>
+          <span className="mt-2 text-sm text-center font-medium text-gray-700">{skill.name}</span>
         </div>
       ))}
     </div>
