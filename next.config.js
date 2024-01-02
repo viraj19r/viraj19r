@@ -5,9 +5,9 @@
 const nextConfig = {
     // basePath: isProd ? '/viraj19r': '',
     output: 'export',
-    images: {
-        unoptimized: true,
-    }
+    // images: {
+    //     unoptimized: true,
+    // }
 }
 
 module.exports = nextConfig
