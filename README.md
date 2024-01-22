@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://viraj19r.vercel.app/](https://viraj19r.vercel.app/)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
