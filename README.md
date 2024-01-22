@@ -1,4 +1,4 @@
-[![MasterHead](viraj.png)](https://viraj19r.vercel.app/)
+<!-- [![MasterHead](viraj.png)](https://viraj19r.vercel.app/) -->
 <h1 align="center">Hi 👋, I'm Viraj Sharma</h1>
 <h3 align="center">I am a student from IIT Madras, adept in Python, Machine Learning, and Software Engineering Technologies.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
