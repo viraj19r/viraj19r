@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **LLM Projects**
 
-- 👨‍💻 All of my projects are available at [https://viraj19r.vercel.app/](https://viraj19r.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://viraj19r.vercel.app/](https://viraj19r.me/)
 
 - 📝 I write articles on [https://medium.com/@viraj19r](https://medium.com/@viraj19r)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **viraj19r@gmail.com**
 
-- 📄 Know about my experiences [https://viraj19r.vercel.app/](https://viraj19r.vercel.app/)
+- 📄 Know about my experiences [https://viraj19r.vercel.app/](https://viraj19r.me/)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
